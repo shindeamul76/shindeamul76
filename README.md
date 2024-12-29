@@ -1,4 +1,4 @@
-![logo](https://github.com/shindeamul76/shindeamul76/blob/main/gotchas-git-github-banner-1.png)
+![logo](https://github.com/shindeamul76/shindeamul76/blob/main/gitprofile.png)
 <h1 align="center">Hi 👋, I'm Amul</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
